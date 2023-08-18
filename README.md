@@ -1,20 +1,30 @@
-<h1 align="center">Hi 👋, I'm Pradosh Chand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Pradosh Chand
 
-- 👨‍💻 All of my projects are available at [https://funny-lokum-4eeb88.netlify.app/](https://funny-lokum-4eeb88.netlify.app/)
 
-- 📫 How to reach me **chandpradosh7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GfE23ia_cUxndOiSRrQSfYGdvUqGOoXs/view?usp=sharing](https://drive.google.com/file/d/1GfE23ia_cUxndOiSRrQSfYGdvUqGOoXs/view?usp=sharing)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/pradosh-chand-4b209027a/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pradosh-chand-4b209027a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradosh-chand-4b209027a" height="30" width="40" /></a>
-</p>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chandpradosh7@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://funny-lokum-4eeb88.netlify.app/)](https://funny-lokum-4eeb88.netlify.app/)
+[![Github](https://img.shields.io/github/followers/naseeb7?label=Follow&style=social)](https://github.com/naseeb7)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naseeb7&show_icons=true&locale=en&layout=compact" alt="naseeb7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naseeb7&" alt="naseeb7" /></p>
+
+### 🖥 Skills
+
+- Frontend development
+- Full-stack development
+- Fast learner
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=TailwindCSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=MUI&color=353535) ![Bootstrap](https://img.shields.io/badge/-html5-05122A?style=for-the-badge&logo=html5&color=353535) ![Bootstrap](https://img.shields.io/badge/-css3-05122A?style=for-the-badge&logo=css3&color=353535) ![Bootstrap](https://img.shields.io/badge/-node.js-05122A?style=for-the-badge&logo=node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-express-05122A?style=for-the-badge&logo=express&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naseeb7&show_icons=true&locale=en&layout=compact" alt="naseeb7" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=naseeb7&" alt="naseeb7" />
+</div>
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
