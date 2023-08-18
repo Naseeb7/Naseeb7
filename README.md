@@ -21,10 +21,8 @@
 ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript&color=353535) ![Bootstrap](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=TailwindCSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=MUI&color=353535) ![Bootstrap](https://img.shields.io/badge/-html5-05122A?style=for-the-badge&logo=html5&color=353535) ![Bootstrap](https://img.shields.io/badge/-css3-05122A?style=for-the-badge&logo=css3&color=353535) ![Bootstrap](https://img.shields.io/badge/-node.js-05122A?style=for-the-badge&logo=node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-express-05122A?style=for-the-badge&logo=express&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=Visual-Studio-Code&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naseeb7&show_icons=true&locale=en&layout=compact" alt="naseeb7" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=naseeb7&" alt="naseeb7" />
 </div>
 
 
 ---
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
