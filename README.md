@@ -58,8 +58,7 @@ Fully responsive personal site built with modern UI + clean code practices.
 ---
 
 ## 📈 What I'm Focused On Right Now
-- Preparing Node.js internals, system design basics, and scaling patterns  
-- Improving GitHub repos with proper READMEs, architecture notes, and demos  
+- Preparing Node.js internals, system design basics, and scaling patterns   
 - Applying for **remote/hybrid MERN or Backend Developer roles**  
 - **Available for immediate full-time joining**
 
