@@ -1,35 +1,50 @@
 # Hi, I'm Pradosh 👋  
 **Full-Stack MERN Developer — Node.js | Next.js | TypeScript | MongoDB**  
-**Immediate Joiner · Open to Remote Roles**
+**Immediate Joiner · Open to Remote / Hybrid Roles**
 
-I build scalable MERN applications end-to-end — from backend architecture and API design to responsive frontends and real-world features like authentication, subscriptions, caching, and mobile app integration.
+I build **production-grade MERN applications** with clean backend architecture, optimized APIs, secure authentication, and real-time features. I’ve delivered across **Web**, **Mobile (React Native)**, and **Node.js backends** while leading small teams and shipping reliably under deadlines.
 
-I’ve delivered production apps across **Web**, **Android/iOS (React Native)**, and **Node.js backends**, and I’ve led small teams to ship features fast and reliably.
+### 💡 My Strength
+I’m strongest at **backend-heavy full-stack work** — API design, DB performance, auth systems, and real-world features that scale.
 
 ---
 
-## 🚀 What I Do
-- Build **scalable backend systems** (Node.js, Express, MongoDB, Redis, WebSockets)  
-- Develop **production-grade full-stack apps** (Next.js / React)  
-- Architect **secure auth flows** (JWT, HttpOnly cookies, RBAC)  
-- Optimize **API performance & DB queries** (indexing, pagination, aggregation)  
-- Deploy on **Vercel, Render, AWS basics (S3, EC2, Lambda, SQS)**  
-- Experience across **web + mobile (React Native)**
+## 🚀 Core Expertise
+- Scalable backends (Node.js, Express, MongoDB, Redis, WebSockets)  
+- Full-stack apps with Next.js / React  
+- Secure auth flows (JWT, HttpOnly cookies, RBAC)  
+- High-performance APIs (indexing, aggregation, pagination)  
+- Deployments (Vercel, Render, AWS basics — EC2, S3, Lambda, SQS)  
+- Experience across Web + React Native apps
 
 ---
 
 ## 📌 Featured Projects
-### 🔹 **JustSocial (MERN Social App)**  
-Full-stack social platform with posts, likes, follow system, JWT auth, and clean modular API.  
+
+### 🔹 **JustSocial — MERN Social App**  
+Full-stack social platform demonstrating API design, auth architecture, and clean modular code.  
+👉 *Skills:* JWT, feed optimization, API structuring, pagination  
 **Repo:** https://github.com/Naseeb7/JustSocialClient  
 
-### 🔹 **CloudNote (Next.js + Offline Sync)**  
-Note app with offline-first IndexedDB caching, autosave, sync logic, and clean UX.  
-**Repo:** https://github.com/Naseeb7/CloudNoteFrontend  
+---
 
-### 🔹 **My Portfolio**  
-Fully responsive personal website built with modern UI principles.  
-**Live:** https://pradosh-portfolio.vercel.app/  
+### 🔹 **iSee — Real-time Video Calling Web App**  
+WebRTC-based real-time video calling with chat, room system, and optimized signaling.  
+👉 *Skills:* WebRTC, socket communication, live interactions  
+**Repo:** https://github.com/Naseeb7/iSee-client  
+
+---
+
+### 🔹 **CoverDev — AI Cover Letter Generator**  
+Generates personalized cover letters instantly from job descriptions using AI APIs.  
+👉 *Skills:* API integration, prompt engineering, full-stack workflow  
+**Repo:** https://github.com/Naseeb7/coverdev  
+
+---
+
+### 🔹 **Portfolio Website**  
+Fully responsive personal site built with modern UI + clean code practices.  
+**Live:** https://pradosh-portfolio.vercel.app/
 
 ---
 
@@ -37,16 +52,16 @@ Fully responsive personal website built with modern UI principles.
 **Frontend:** React, Next.js, TypeScript, Tailwind, Chakra UI  
 **Backend:** Node.js, Express, MongoDB, Mongoose  
 **Mobile:** React Native  
-**DevOps / Tools:** Docker, GitHub Actions, AWS basics, Redis, S3  
+**DevOps / Tools:** Docker, GitHub Actions, Redis, AWS (S3, EC2, Lambda)  
 **Other:** WebSockets, WebRTC, REST APIs, JWT Auth
 
 ---
 
-## 📈 What I’m Doing Now
-- Actively applying for **remote/hybrid MERN or Backend Developer roles**  
-- Preparing Node.js internals & system design  
-- Polishing GitHub with clean READMEs, architecture notes & demos  
-- Available for **immediate full-time joining**
+## 📈 What I'm Focused On Right Now
+- Preparing Node.js internals, system design basics, and scaling patterns  
+- Improving GitHub repos with proper READMEs, architecture notes, and demos  
+- Applying for **remote/hybrid MERN or Backend Developer roles**  
+- **Available for immediate full-time joining**
 
 ---
 
@@ -54,8 +69,8 @@ Fully responsive personal website built with modern UI principles.
 **Portfolio:** https://pradosh-portfolio.vercel.app/  
 **LinkedIn:** https://www.linkedin.com/in/pradosh-chand-4b209027a/  
 **Email:** chandpradosh7@gmail.com  
-**Resume:** Available on portfolio (one-click open)
+**Resume:** Available on portfolio
 
 ---
 
-If you’d like to discuss an opportunity or collaborate, message me anytime — I usually respond within a few hours.
+If you’d like to discuss an opportunity or collaborate, message me anytime — I respond quickly.
