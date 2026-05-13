@@ -1,75 +1,105 @@
-# Hi, I'm Pradosh 👋  
-**Full-Stack MERN Developer — Node.js | Next.js | TypeScript | MongoDB**  
-**Immediate Joiner · Open to Remote / Hybrid Roles**
+# Hey, I'm Pradosh 👋
 
-I build **production-grade MERN applications** with clean backend architecture, optimized APIs, secure authentication, and real-time features. I’ve delivered across **Web**, **Mobile (React Native)**, and **Node.js backends** while leading small teams and shipping reliably under deadlines.
+Frontend-heavy full-stack engineer building modern, real-time web applications with React, Next.js, TypeScript, and Node.js.
 
-### 💡 My Strength
-I’m strongest at **backend-heavy full-stack work** — API design, DB performance, auth systems, and real-world features that scale.
+I enjoy crafting responsive user experiences, scalable frontend architectures, and interactive systems that feel fast, polished, and alive — while still having the backend depth to build and ship complete products end-to-end.
 
----
+Over the last 2 years, I’ve worked across frontend, backend, mobile, and real-time systems in startup environments, contributing to production applications used by real users.
 
-## 🚀 Core Expertise
-- Scalable backends (Node.js, Express, MongoDB, Redis, WebSockets)  
-- Full-stack apps with Next.js / React  
-- Secure auth flows (JWT, HttpOnly cookies, RBAC)  
-- High-performance APIs (indexing, aggregation, pagination)  
-- Deployments (Vercel, Render, AWS basics — EC2, S3, Lambda, SQS)  
-- Experience across Web + React Native apps
+Currently focused on:
+- advanced frontend engineering
+- scalable React/Next.js applications
+- real-time systems
+- multiplayer architecture
+- frontend performance & UX
 
 ---
 
-## 📌 Featured Projects
+# ⚡ Featured Projects
 
-### 🔹 **JustSocial — MERN Social App**  
-Full-stack social platform demonstrating API design, auth architecture, and clean modular code.  
-👉 *Skills:* JWT, feed optimization, API structuring, pagination  
-**Repo:** https://github.com/Naseeb7/JustSocialClient  
+## 🎮 Nakama Authoritative Multiplayer Tic-Tac-Toe
+Real-time multiplayer game built with Nakama authoritative server architecture and responsive frontend interactions.
 
----
+### Highlights
+- authoritative multiplayer architecture
+- real-time synchronization
+- matchmaking & reconnection handling
+- responsive game UI
+- WebSocket communication
 
-### 🔹 **iSee — Real-time Video Calling Web App**  
-WebRTC-based real-time video calling with chat, room system, and optimized signaling.  
-👉 *Skills:* WebRTC, socket communication, live interactions  
-**Repo:** https://github.com/Naseeb7/iSee-client  
+**Tech:** React, TypeScript, Nakama, Docker, WebSockets
 
----
-
-### 🔹 **CoverDev — AI Cover Letter Generator**  
-Generates personalized cover letters instantly from job descriptions using AI APIs.  
-👉 *Skills:* API integration, prompt engineering, full-stack workflow  
-**Repo:** https://github.com/Naseeb7/coverdev  
+🔗 Repo: https://github.com/naseeb7/nakama-authoritative-tictactoe
 
 ---
 
-### 🔹 **Portfolio Website**  
-Fully responsive personal site built with modern UI + clean code practices.  
-**Live:** https://pradosh-portfolio.vercel.app/
+## 🌐 JustSocial — Full-Stack Social Platform
+Modern social media platform focused on clean UI, scalable frontend patterns, and production-style architecture.
+
+### Highlights
+- responsive modern UI
+- feed rendering & pagination
+- authentication flows
+- reusable component architecture
+- optimized API interactions
+
+**Tech:** Next.js, TypeScript, Node.js, MongoDB
+
+🔗 Repo: https://github.com/Naseeb7/JustSocialClient
 
 ---
 
-## 🧰 Tech Stack
-**Frontend:** React, Next.js, TypeScript, Tailwind, Chakra UI  
-**Backend:** Node.js, Express, MongoDB, Mongoose  
-**Mobile:** React Native  
-**DevOps / Tools:** Docker, GitHub Actions, Redis, AWS (S3, EC2, Lambda)  
-**Other:** WebSockets, WebRTC, REST APIs, JWT Auth
+## 📹 iSee — Real-Time Video Calling Platform
+Interactive video calling platform with real-time communication and room-based collaboration.
+
+**Tech:** React, WebRTC, Socket.IO, Node.js
+
+🔗 Repo: https://github.com/Naseeb7/iSee-client
 
 ---
 
-## 📈 What I'm Focused On Right Now
-- Preparing Node.js internals, system design basics, and scaling patterns   
-- Applying for **remote/hybrid MERN or Backend Developer roles**  
-- **Available for immediate full-time joining**
+## 🤖 CoverDev — AI Cover Letter Generator
+AI-powered application that generates personalized cover letters from job descriptions.
+
+**Tech:** Next.js, TypeScript, Node.js
+
+🔗 Repo: https://github.com/Naseeb7/coverdev
 
 ---
 
-## 📬 Connect With Me
-**Portfolio:** https://pradosh-portfolio.vercel.app/  
-**LinkedIn:** https://www.linkedin.com/in/pradosh-chand-4b209027a/  
-**Email:** chandpradosh7@gmail.com  
-**Resume:** Available on portfolio
+# 🛠 Tech Stack
+
+### Frontend
+React • Next.js • TypeScript • Tailwind CSS • React Native
+
+### Backend
+Node.js • Express • MongoDB • Redis • REST APIs
+
+### Real-Time
+WebSockets • Socket.IO • WebRTC • Nakama
+
+### DevOps & Tools
+Docker • GitHub Actions • AWS • Vercel • Render
 
 ---
 
-If you’d like to discuss an opportunity or collaborate, message me anytime — I respond quickly.
+# 📌 A Few Things About Me
+
+- Frontend-focused with strong backend understanding
+- Comfortable owning features end-to-end
+- Strong interest in product experience & interaction design
+- Experience building real-time systems
+- Self-taught developer who entered tech through consistent self-learning
+
+---
+
+# 🌍 Links
+
+Portfolio → https://pradoshchand.dev/  
+GitHub → https://github.com/naseeb7  
+LinkedIn → https://www.linkedin.com/in/pradosh-chand/  
+Why I Build → https://why.pradoshchand.dev/
+
+---
+
+> I enjoy building products that are interactive, fast, and genuinely enjoyable to use.
