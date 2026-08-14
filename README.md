@@ -1,105 +1,86 @@
-# Hey, I'm Pradosh 👋
+# Hey, I'm Pradosh.
 
-Frontend-heavy full-stack engineer building modern, real-time web applications with React, Next.js, TypeScript, and Node.js.
+### Frontend Product Engineer · React · Next.js · TypeScript
 
-I enjoy crafting responsive user experiences, scalable frontend architectures, and interactive systems that feel fast, polished, and alive — while still having the backend depth to build and ship complete products end-to-end.
+I build products, but the part I enjoy most is figuring out **how the pieces should fit together**.
 
-Over the last 2 years, I’ve worked across frontend, backend, mobile, and real-time systems in startup environments, contributing to production applications used by real users.
+A polished interface is great. A system that stays understandable six months later is better. And getting both into production is the fun part.
 
-Currently focused on:
-- advanced frontend engineering
-- scalable React/Next.js applications
-- real-time systems
-- multiplayer architecture
-- frontend performance & UX
+My strongest work is in React, Next.js and TypeScript, but I've spent my career moving across the boundaries around the frontend too — mobile apps, Node.js backends, realtime systems, payments, AI integrations, production releases and the occasional emergency hotfix.
+
+I've gone from building features to owning parts of products end-to-end, and eventually to leading a team. I tend to be most interested in problems where there's more to solve than just the screen in front of me.
 
 ---
 
-# ⚡ Featured Projects
+## A few things I've built
 
-## 🎮 Nakama Authoritative Multiplayer Tic-Tac-Toe
-Real-time multiplayer game built with Nakama authoritative server architecture and responsive frontend interactions.
+### 🎮 Nakama Authoritative Tic-Tac-Toe
 
-### Highlights
-- authoritative multiplayer architecture
-- real-time synchronization
-- matchmaking & reconnection handling
-- responsive game UI
-- WebSocket communication
+I wanted to build multiplayer properly, so the server gets to be the authority.
 
-**Tech:** React, TypeScript, Nakama, Docker, WebSockets
+This project handles gameplay validation, matchmaking, realtime synchronization, reconnect recovery, persistent match history and leaderboards — backed by Nakama, WebSockets, Docker and Railway.
 
-🔗 Repo: https://github.com/naseeb7/nakama-authoritative-tictactoe
+[Explore the repository →](https://github.com/Naseeb7/nakama-authoritative-tictactoe)
 
----
+### 📹 iSee
 
-## 🌐 JustSocial — Full-Stack Social Platform
-Modern social media platform focused on clean UI, scalable frontend patterns, and production-style architecture.
+A peer-to-peer video communication platform built around WebRTC and Socket.IO.
 
-### Highlights
-- responsive modern UI
-- feed rendering & pagination
-- authentication flows
-- reusable component architecture
-- optimized API interactions
+Video calls, messaging, room management and signaling were the visible parts. The interesting work was keeping connections, sessions and participants synchronized when real-time systems inevitably stop behaving perfectly.
 
-**Tech:** Next.js, TypeScript, Node.js, MongoDB
+[Explore the repository →](https://github.com/Naseeb7/iSee-client)
 
-🔗 Repo: https://github.com/Naseeb7/JustSocialClient
+### ✍️ Gatsby Blog Platform
+
+A publishing platform built from scratch with a custom Markdown editor, autosave, Git-based publishing and automated deployment.
+
+I also worked on SEO, static generation, caching and build performance. It eventually contributed around **70% of the company's website traffic** through organic discoverability.
 
 ---
 
-## 📹 iSee — Real-Time Video Calling Platform
-Interactive video calling platform with real-time communication and room-based collaboration.
+## What production taught me
 
-**Tech:** React, WebRTC, Socket.IO, Node.js
+At Hexadecimal Software, I started as a Software Developer and was promoted to Team Lead within eight months.
 
-🔗 Repo: https://github.com/Naseeb7/iSee-client
+I worked across the company's React web application, React Native mobile application and Node.js backend, taking features from technical design through production. That included architecture, payments, deep linking, onboarding and save-and-resume workflows, AI-assisted property descriptions, realtime features, production deployments, Android/iOS releases and emergency hotfixes.
 
----
+I was also recognized as Employee of the Month within my first three months.
 
-## 🤖 CoverDev — AI Cover Letter Generator
-AI-powered application that generates personalized cover letters from job descriptions.
+The biggest thing I took away from that experience is that **shipping the feature is only part of the job**. You also have to think about how it behaves in production, how the next engineer will understand it, and what happens when something goes wrong at 2 AM.
 
-**Tech:** Next.js, TypeScript, Node.js
-
-🔗 Repo: https://github.com/Naseeb7/coverdev
+That's probably why I care as much about architecture and maintainability as I do about the UI.
 
 ---
 
-# 🛠 Tech Stack
+## My usual toolbox
 
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS • React Native
+**Frontend**  
+React.js · Next.js · TypeScript · JavaScript · React Native · Redux · Tailwind CSS · Material UI
 
-### Backend
-Node.js • Express • MongoDB • Redis • REST APIs
+**Backend & Data**  
+Node.js · Express.js · REST APIs · GraphQL · Apollo Server · MongoDB · Redis
 
-### Real-Time
-WebSockets • Socket.IO • WebRTC • Nakama
+**Realtime**  
+WebSockets · Socket.IO · WebRTC
 
-### DevOps & Tools
-Docker • GitHub Actions • AWS • Vercel • Render
+**Cloud & Engineering**  
+AWS · Firebase · Vercel · Docker · Git · GitHub · Postman
 
----
-
-# 📌 A Few Things About Me
-
-- Frontend-focused with strong backend understanding
-- Comfortable owning features end-to-end
-- Strong interest in product experience & interaction design
-- Experience building real-time systems
-- Self-taught developer who entered tech through consistent self-learning
+**Integrations**  
+Stripe · PayPal · Razorpay · OpenAI API · GA4 · Sentry
 
 ---
 
-# 🌍 Links
+## What I'm interested in
 
-Portfolio → https://pradoshchand.dev/  
-GitHub → https://github.com/naseeb7  
-LinkedIn → https://www.linkedin.com/in/pradosh-chand/  
-Why I Build → https://why.pradoshchand.dev/
+Building products where engineering quality actually matters — thoughtful frontend architecture, scalable React/Next.js applications, realtime experiences, performance, and taking ideas all the way from **"this should exist"** to **"it's running in production."**
 
 ---
 
-> I enjoy building products that are interactive, fast, and genuinely enjoyable to use.
+## Elsewhere
+
+[Portfolio](https://pradoshchand.dev/) · [LinkedIn](https://www.linkedin.com/in/pradosh-chand/) · [GitHub](https://github.com/Naseeb7)
+
+---
+
+> **Build it. Ship it. Make it better.**
