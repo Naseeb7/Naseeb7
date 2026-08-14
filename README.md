@@ -1,105 +1,69 @@
-# Hey, I'm Pradosh 👋
+# Pradosh Chand
 
-Frontend-heavy full-stack engineer building modern, real-time web applications with React, Next.js, TypeScript, and Node.js.
+### Frontend-Heavy Product Engineer — React | Next.js | TypeScript
 
-I enjoy crafting responsive user experiences, scalable frontend architectures, and interactive systems that feel fast, polished, and alive — while still having the backend depth to build and ship complete products end-to-end.
+I build and ship production products across web, mobile, backend, and real-time systems, with a strong focus on frontend architecture, product experience, and production ownership.
 
-Over the last 2 years, I’ve worked across frontend, backend, mobile, and real-time systems in startup environments, contributing to production applications used by real users.
+I enjoy taking products from technical design through deployment: building interfaces that feel fast and polished, designing the systems behind them, and solving the production problems that appear after launch.
 
-Currently focused on:
-- advanced frontend engineering
-- scalable React/Next.js applications
-- real-time systems
-- multiplayer architecture
-- frontend performance & UX
+### What I work with
 
----
+**Frontend**  
+React.js · Next.js · TypeScript · JavaScript · React Native · Redux · Tailwind CSS · Material UI
 
-# ⚡ Featured Projects
+**Backend & Data**  
+Node.js · Express.js · REST APIs · GraphQL · MongoDB · Redis
 
-## 🎮 Nakama Authoritative Multiplayer Tic-Tac-Toe
-Real-time multiplayer game built with Nakama authoritative server architecture and responsive frontend interactions.
+**Real-time**  
+WebSockets · Socket.IO · WebRTC
 
-### Highlights
-- authoritative multiplayer architecture
-- real-time synchronization
-- matchmaking & reconnection handling
-- responsive game UI
-- WebSocket communication
+**Cloud & Engineering**  
+AWS · Firebase · Vercel · Docker · Git · GitHub · Postman
 
-**Tech:** React, TypeScript, Nakama, Docker, WebSockets
+**Integrations**  
+Razorpay · Stripe · PayPal · OpenAI API · GA4 · Sentry
 
-🔗 Repo: https://github.com/naseeb7/nakama-authoritative-tictactoe
+### Selected work
 
----
+#### Nakama Authoritative Tic-Tac-Toe
+Server-authoritative multiplayer system with gameplay validation, matchmaking, real-time synchronization, reconnect recovery, leaderboards, and persistent match history.
 
-## 🌐 JustSocial — Full-Stack Social Platform
-Modern social media platform focused on clean UI, scalable frontend patterns, and production-style architecture.
+**Next.js · React · TypeScript · Nakama · PostgreSQL · WebSockets · Docker**
 
-### Highlights
-- responsive modern UI
-- feed rendering & pagination
-- authentication flows
-- reusable component architecture
-- optimized API interactions
+[Repository](https://github.com/Naseeb7/nakama-authoritative-tictactoe)
 
-**Tech:** Next.js, TypeScript, Node.js, MongoDB
+#### iSee
+Peer-to-peer real-time video communication platform with video calling, messaging, room-based communication, and WebRTC/Socket.IO signaling.
 
-🔗 Repo: https://github.com/Naseeb7/JustSocialClient
+**React · Node.js · WebRTC · Socket.IO · MongoDB**
 
----
+[Repository](https://github.com/Naseeb7/iSee-client)
 
-## 📹 iSee — Real-Time Video Calling Platform
-Interactive video calling platform with real-time communication and room-based collaboration.
+#### Gatsby Blog Platform
+A publishing platform built from scratch with a custom Markdown editor, autosave, Git-based publishing, automated deployment, SEO optimization, and static generation. The platform contributed approximately 70% of the company's website traffic through organic discoverability.
 
-**Tech:** React, WebRTC, Socket.IO, Node.js
+**Gatsby · React · GraphQL · JavaScript · Git**
 
-🔗 Repo: https://github.com/Naseeb7/iSee-client
+### Engineering experience
 
----
+At Hexadecimal Software, I progressed from Software Developer to Team Lead while taking increasing ownership across the company's React web application, React Native mobile application, and Node.js backend.
 
-## 🤖 CoverDev — AI Cover Letter Generator
-AI-powered application that generates personalized cover letters from job descriptions.
+My work included frontend architecture, backend services, deep linking between web and mobile, payment integrations, onboarding and save-and-resume workflows, AI-assisted features, real-time functionality, production releases, emergency hotfixes, and Android/iOS store deployments.
 
-**Tech:** Next.js, TypeScript, Node.js
+I was promoted to Team Lead within eight months and recognized as Employee of the Month within my first three months.
 
-🔗 Repo: https://github.com/Naseeb7/coverdev
+### Currently focused on
 
----
+- Advanced frontend engineering and product architecture
+- Scalable React and Next.js applications
+- Production engineering and performance
+- Real-time and interactive systems
+- Building polished, user-focused product experiences
 
-# 🛠 Tech Stack
+### Find me online
 
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS • React Native
-
-### Backend
-Node.js • Express • MongoDB • Redis • REST APIs
-
-### Real-Time
-WebSockets • Socket.IO • WebRTC • Nakama
-
-### DevOps & Tools
-Docker • GitHub Actions • AWS • Vercel • Render
+[Portfolio](https://pradoshchand.dev/) · [Resume](https://pradoshchand.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/pradosh-chand/) · [Freelance](https://freelance.pradoshchand.dev/)
 
 ---
 
-# 📌 A Few Things About Me
-
-- Frontend-focused with strong backend understanding
-- Comfortable owning features end-to-end
-- Strong interest in product experience & interaction design
-- Experience building real-time systems
-- Self-taught developer who entered tech through consistent self-learning
-
----
-
-# 🌍 Links
-
-Portfolio → https://pradoshchand.dev/  
-GitHub → https://github.com/naseeb7  
-LinkedIn → https://www.linkedin.com/in/pradosh-chand/  
-Why I Build → https://why.pradoshchand.dev/
-
----
-
-> I enjoy building products that are interactive, fast, and genuinely enjoyable to use.
+> Building production products through frontend engineering, architecture, and ownership.
