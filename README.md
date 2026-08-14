@@ -1,68 +1,84 @@
 # Pradosh Chand
 
-### Frontend-Heavy Product Engineer — React | Next.js | TypeScript
+### Frontend Product Engineer — React | Next.js | TypeScript
 
-I build and ship production products across web, mobile, backend, and real-time systems, with a strong focus on frontend architecture, product experience, and production ownership.
+Frontend Product Engineer specializing in building production web, mobile, and backend applications using React, Next.js, TypeScript, and Node.js. Experienced owning product development across web, mobile, and backend systems, delivering scalable solutions from architecture through production in fast-paced startup environments.
 
-I enjoy taking products from technical design through deployment: building interfaces that feel fast and polished, designing the systems behind them, and solving the production problems that appear after launch.
+Strong foundation in frontend architecture, product ownership, production engineering, and cross-functional collaboration. Comfortable working in remote-first teams, collaborating asynchronously across time zones, and driving projects independently from concept to deployment.
 
-### What I work with
+## Engineering Focus
+
+- Frontend architecture and production React applications
+- Next.js and TypeScript application development
+- Product ownership from technical design through production
+- Production engineering, releases, hotfixes, and incident resolution
+- Real-time and mobile application development
+- Scalable backend services and API design
+
+## Technical Skills
 
 **Frontend**  
 React.js · Next.js · TypeScript · JavaScript · React Native · Redux · Tailwind CSS · Material UI
 
-**Backend & Data**  
-Node.js · Express.js · REST APIs · GraphQL · MongoDB · Redis
+**Backend**  
+Node.js · Express.js · REST APIs · GraphQL · Apollo Server
+
+**Databases & Caching**  
+MongoDB · Redis
 
 **Real-time**  
 WebSockets · Socket.IO · WebRTC
 
-**Cloud & Engineering**  
-AWS · Firebase · Vercel · Docker · Git · GitHub · Postman
+**Cloud & Dev Tools**  
+AWS (EC2, S3) · Firebase · Vercel · Git · GitHub · Docker · Postman
 
-**Integrations**  
-Razorpay · Stripe · PayPal · OpenAI API · GA4 · Sentry
+**Payments & Monitoring**  
+Stripe · PayPal · Razorpay · Google Analytics (GA4) · Sentry
 
-### Selected work
+## Selected Engineering Projects
 
-#### Nakama Authoritative Tic-Tac-Toe
-Server-authoritative multiplayer system with gameplay validation, matchmaking, real-time synchronization, reconnect recovery, leaderboards, and persistent match history.
+### Gatsby Blog Platform
+Professional publishing platform built from scratch with a custom Markdown editor, autosave functionality, Git-based publishing workflow, and automated deployment pipeline.
 
-**Next.js · React · TypeScript · Nakama · PostgreSQL · WebSockets · Docker**
+Optimized SEO, static site generation, caching, and build performance, contributing 70% of the company's website traffic through improved organic discoverability.
+
+**Gatsby · React · GraphQL · JavaScript · Git**
+
+### Nakama Authoritative Tic-Tac-Toe
+Server-authoritative multiplayer platform implementing gameplay validation, matchmaking, real-time synchronization, reconnect recovery, leaderboard progression, and persistent match history.
+
+Engineered a production-ready backend using Nakama, Docker, Railway, and WebSockets to deliver reliable low-latency multiplayer gameplay across distributed clients.
 
 [Repository](https://github.com/Naseeb7/nakama-authoritative-tictactoe)
 
-#### iSee
-Peer-to-peer real-time video communication platform with video calling, messaging, room-based communication, and WebRTC/Socket.IO signaling.
+### iSee
+Peer-to-peer video communication platform supporting real-time video calling, messaging, room management, and signaling using WebRTC and Socket.IO.
+
+Designed resilient real-time communication workflows for connection management, session handling, and synchronized user experiences across participants.
 
 **React · Node.js · WebRTC · Socket.IO · MongoDB**
 
 [Repository](https://github.com/Naseeb7/iSee-client)
 
-#### Gatsby Blog Platform
-A publishing platform built from scratch with a custom Markdown editor, autosave, Git-based publishing, automated deployment, SEO optimization, and static generation. The platform contributed approximately 70% of the company's website traffic through organic discoverability.
+## Professional Experience
 
-**Gatsby · React · GraphQL · JavaScript · Git**
+At **Hexadecimal Software Pvt Ltd**, I progressed from Software Developer to Team Lead while taking increasing ownership across the company's React web application, React Native mobile application, and Node.js backend.
 
-### Engineering experience
+I re-architected the React Native application, designed reusable backend services, engineered cross-platform URL parsing and deep linking, and delivered business-critical capabilities including payment integrations, save-and-resume workflows, onboarding, real-time features, and AI-assisted property description generation using OpenAI APIs.
 
-At Hexadecimal Software, I progressed from Software Developer to Team Lead while taking increasing ownership across the company's React web application, React Native mobile application, and Node.js backend.
+I also owned production engineering across web and mobile, including production deployments, Android and iOS releases, emergency hotfixes, incident resolution, and application stability in live environments.
 
-My work included frontend architecture, backend services, deep linking between web and mobile, payment integrations, onboarding and save-and-resume workflows, AI-assisted features, real-time functionality, production releases, emergency hotfixes, and Android/iOS store deployments.
+I was recognized as **Employee of the Month within three months** and promoted to **Team Lead within eight months**.
 
-I was promoted to Team Lead within eight months and recognized as Employee of the Month within my first three months.
+## Education
 
-### Currently focused on
+**Manipal University Jaipur** — Bachelor of Computer Applications (Online), 2025 – Present
 
-- Advanced frontend engineering and product architecture
-- Scalable React and Next.js applications
-- Production engineering and performance
-- Real-time and interactive systems
-- Building polished, user-focused product experiences
+**The Pharmaceutical College, Barpali** — Diploma in Pharmacy, 2019 – 2022
 
-### Find me online
+## Links
 
-[Portfolio](https://pradoshchand.dev/) · [Resume](https://pradoshchand.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/pradosh-chand/) · [Freelance](https://freelance.pradoshchand.dev/)
+[Portfolio](https://pradoshchand.dev/) · [LinkedIn](https://www.linkedin.com/in/pradosh-chand/) · [GitHub](https://github.com/Naseeb7)
 
 ---
 
