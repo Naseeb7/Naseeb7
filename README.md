@@ -1,86 +1,89 @@
-# Hey, I'm Pradosh.
+# Pradosh Chand
 
-### Frontend Product Engineer · React · Next.js · TypeScript
+### Full-Stack Product Engineer · Web, Mobile & Backend
 
-I build products, but the part I enjoy most is figuring out **how the pieces should fit together**.
+I build and ship production software across web, mobile, and backend systems.
 
-A polished interface is great. A system that stays understandable six months later is better. And getting both into production is the fun part.
+I enjoy the engineering work behind a product: understanding the problem, deciding how the pieces should fit together, building reliable systems, and seeing the result through to production. My experience spans product features, API architecture, third-party integrations, realtime systems, payments, and production releases.
 
-My strongest work is in React, Next.js and TypeScript, but I've spent my career moving across the boundaries around the frontend too — mobile apps, Node.js backends, realtime systems, payments, AI integrations, production releases and the occasional emergency hotfix.
-
-I've gone from building features to owning parts of products end-to-end, and eventually to leading a team. I tend to be most interested in problems where there's more to solve than just the screen in front of me.
+My core stack is **React, Next.js, React Native, TypeScript, Node.js, and MongoDB** — but I’m most interested in solving the problem well, not just working within one layer of the stack.
 
 ---
 
-## A few things I've built
+## What I work on
 
-### 🎮 Nakama Authoritative Tic-Tac-Toe
+- **Product engineering:** Taking features from technical design through implementation, release, and production support.
+- **Backend & integrations:** API design, reusable service layers, provider-agnostic integrations, data normalization, and workflow orchestration.
+- **Payments:** Integrations with Razorpay, Stripe, and PayPal, including multi-provider routing and transaction workflows.
+- **Realtime systems:** WebSockets, Socket.IO, WebRTC, live state synchronization, and multiplayer experiences.
+- **Web & mobile:** Responsive product interfaces and cross-platform applications built with React, Next.js, and React Native.
 
-I wanted to build multiplayer properly, so the server gets to be the authority.
+## Selected work
 
-This project handles gameplay validation, matchmaking, realtime synchronization, reconnect recovery, persistent match history and leaderboards — backed by Nakama, WebSockets, Docker and Railway.
+### Nakama — Authoritative Multiplayer Tic-Tac-Toe
 
-[Explore the repository →](https://github.com/Naseeb7/nakama-authoritative-tictactoe)
+A multiplayer game where the server owns the match state and validates every move. Built matchmaking, realtime synchronization, reconnect recovery, timed turns, match history, and leaderboard progression.
 
-### 📹 iSee
+[Explore the repository](https://github.com/Naseeb7/nakama-authoritative-tictactoe)
 
-A peer-to-peer video communication platform built around WebRTC and Socket.IO.
+### iSee — Realtime Video Communication
 
-Video calls, messaging, room management and signaling were the visible parts. The interesting work was keeping connections, sessions and participants synchronized when real-time systems inevitably stop behaving perfectly.
+A peer-to-peer video communication platform with WebRTC calls, messaging, room-based communication, and Socket.IO signaling. A practical exercise in coordinating sessions, participants, and realtime connection state.
 
-[Explore the repository →](https://github.com/Naseeb7/iSee-client)
+[Explore the repository](https://github.com/Naseeb7/iSee-client)
 
-### ✍️ Gatsby Blog Platform
+### Gatsby Publishing Platform
 
-A publishing platform built from scratch with a custom Markdown editor, autosave, Git-based publishing and automated deployment.
+Built a publishing platform from scratch with a custom Markdown editor, autosave, and Git-based publishing workflow. Worked on static generation, SEO, caching, deployment automation, and performance. The platform contributed approximately **70% of the company’s website traffic**.
 
-I also worked on SEO, static generation, caching and build performance. It eventually contributed around **70% of the company's website traffic** through organic discoverability.
+### Veyra — Biotech Landing Page
 
----
+An animation-driven, responsive Next.js experience with accessible navigation, reduced-motion support, and reusable components. Focused on interaction performance and keeping client-side state lean.
 
-## What production taught me
-
-At Hexadecimal Software, I started as a Software Developer and was promoted to Team Lead within eight months.
-
-I worked across the company's React web application, React Native mobile application and Node.js backend, taking features from technical design through production. That included architecture, payments, deep linking, onboarding and save-and-resume workflows, AI-assisted property descriptions, realtime features, production deployments, Android/iOS releases and emergency hotfixes.
-
-I was also recognized as Employee of the Month within my first three months.
-
-The biggest thing I took away from that experience is that **shipping the feature is only part of the job**. You also have to think about how it behaves in production, how the next engineer will understand it, and what happens when something goes wrong at 2 AM.
-
-That's probably why I care as much about architecture and maintainability as I do about the UI.
+More work and project details: [pradoshchand.dev/projects](https://pradoshchand.dev/projects)
 
 ---
 
-## My usual toolbox
+## Production experience
 
-**Frontend**  
-React.js · Next.js · TypeScript · JavaScript · React Native · Redux · Tailwind CSS · Material UI
+At **Hexadecimal Software**, I worked across an enterprise real-estate SaaS product spanning its React web application, React Native mobile app, and Node.js backend. I owned features end-to-end — from technical design and API implementation to releases, hotfixes, and production support.
 
-**Backend & Data**  
-Node.js · Express.js · REST APIs · GraphQL · Apollo Server · MongoDB · Redis
+Some of the work included:
 
-**Realtime**  
-WebSockets · Socket.IO · WebRTC
+- Designing REST APIs and reusable services for authentication, property management, search, onboarding, and dynamic workflows.
+- Building cross-platform deep linking to route shared property URLs to the right screens on web and mobile.
+- Shipping Razorpay payments, save-and-resume forms, AI-assisted content generation, and realtime functionality.
+- Owning Android/iOS builds and Google Play Store and Apple App Store releases.
 
-**Cloud & Engineering**  
-AWS · Firebase · Vercel · Docker · Git · GitHub · Postman
+I progressed from Software Developer to **Team Lead within eight months**, mentored interns, and conducted code reviews.
 
-**Integrations**  
-Stripe · PayPal · Razorpay · OpenAI API · GA4 · Sentry
+I also led backend delivery for a fantasy sports platform, building a provider-agnostic sports-data layer, scheduled data pipelines, fantasy scoring and contest workflows, and PayPal-powered wallet transactions.
 
 ---
 
-## What I'm interested in
+## Toolbox
 
-Building products where engineering quality actually matters — thoughtful frontend architecture, scalable React/Next.js applications, realtime experiences, performance, and taking ideas all the way from **"this should exist"** to **"it's running in production."**
+| Area | Tools and technologies |
+|---|---|
+| **Frontend** | React, Next.js, React Native, TypeScript, JavaScript, Tailwind CSS |
+| **Backend & APIs** | Node.js, Express.js, REST APIs, GraphQL |
+| **Data & realtime** | MongoDB, Redis, WebSockets, Socket.IO, WebRTC |
+| **Integrations** | Razorpay, Stripe, PayPal, OpenAI |
+| **Cloud & delivery** | AWS (EC2, S3), Firebase, Vercel, Docker, Git, GitHub |
 
 ---
 
-## Elsewhere
+## What I'm looking for
 
-[Portfolio](https://pradoshchand.dev/) · [LinkedIn](https://www.linkedin.com/in/pradosh-chand/) · [GitHub](https://github.com/Naseeb7)
+I’m interested in full-stack product engineering work where I can take meaningful ownership, work across system boundaries, and help ship software that holds up in production. I value clear problem-solving, maintainable architecture, and teams that care about the quality of what they build.
+
+## Find me elsewhere
+
+- **Portfolio:** [pradoshchand.dev](https://pradoshchand.dev/)
+- **Projects:** [pradoshchand.dev/projects](https://pradoshchand.dev/projects)
+- **LinkedIn:** [linkedin.com/in/pradosh-chand](https://www.linkedin.com/in/pradosh-chand/)
+- **Email:** [chandpradosh7@gmail.com](mailto:chandpradosh7@gmail.com)
 
 ---
 
-> **Build it. Ship it. Make it better.**
+*Build thoughtfully. Ship reliably. Keep improving.*
